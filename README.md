@@ -22,6 +22,7 @@ A site where you can
 ## Usage
 
 1. run `yarn`
+1. run `yarn seed`
 2. run `yarn develop`
 3. open `http://localhost:3000/` in your browser
 
