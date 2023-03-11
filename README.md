@@ -2,7 +2,9 @@
 
 ![License - Unlicense](https://img.shields.io/static/v1?label=License&message=Unlicense&color=blue&style=plastic)
 
-A site where you can 
+A site where you can shop for books!
+
+[demo link](https://obscure-plains-00395.herokuapp.com/)
 
 ![image](https://user-images.githubusercontent.com/48780301/224474994-add1ed90-7ac9-4deb-ab34-b5c0ddb1e761.png)
 
